@@ -1,3 +1,4 @@
+![spark java 8](https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2014/12/spark-and-java-8.png)
 # hello_spark
 The classic word count example before Java 8 and after Java 8+
 
